@@ -1,0 +1,42 @@
+/******Base Styles*****/
+
+h1 {
+    color: aliceblue;
+    font-size: 80px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    margin: auto;
+    padding-bottom: 25px;
+    padding-top: 100px;
+    text-align: center;
+}
+
+h2 {
+    color: gray;
+    font-size: 40px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: center;
+}
+
+p {
+    color:aliceblue;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 45px;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+/*** Grids ***/
+
+.container {
+    background: url(/media/1969-burnout-car-cars-wallpaper-preview.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    }
+
+body {
+    background-color: #101010;
+}
+
